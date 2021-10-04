@@ -7,8 +7,8 @@ AVL::AVL() {
 AVL::Node* AVL::createNode(Key key) {
 	Node* newnode = new Node;
 	newnode->key = key;
-	newnode->left = nullptr;
 	newnode->right = nullptr;
+	newnode->left = nullptr;
 	newnode->h = 1;
 	return newnode;
 }

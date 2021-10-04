@@ -7,9 +7,9 @@ int main()
 		system("cls");
 		AVL tree;
 
-		cout << "\t========================\n"
-			<< "\t=\tAVL TREE       =\n"
-			<< "\t========================\n\n";
+		cout << "\t============================\n"
+			<< "\t=\tAVL TREE TK      =\n"
+			<< "\t=============================\n\n";
 		cout << "Enter the elements (enter \"n\" to finish entering):\n";
 		EnterDataNode(tree);
 
