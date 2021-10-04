@@ -6,7 +6,7 @@ int main()
 	int ans;
 	while (1) {
 		system("cls");
-		cout << "============================================================================\n"
+		cout << "=============================================================================\n"
 			<< "=  A PROGRAM TO TEST WHETHER ALL LEAVES OF AN AVL TREE HAVE THE SAME DEPTH  =\n"
 			<< "=============================================================================\n\n";
 		cout << "\tThe options:\n\t1. Run Demo program\n\t2. Enter your AVL tree\n\t3. Exit\n";
